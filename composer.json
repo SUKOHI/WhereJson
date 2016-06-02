@@ -1,0 +1,20 @@
+{
+    "name": "sukohi/where-json",
+    "description": "A Laravel package to mange WHERE clause for json data.",
+    "authors": [
+        {
+            "name": "Sukohi",
+            "email": "capilano.sukohi@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sukohi\\WhereJson\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
