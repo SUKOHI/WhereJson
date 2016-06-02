@@ -23,11 +23,6 @@ Set `WhereJsonTrait` in your model like so.
     }
 
 # Usage
-
-* 1st argument is column name.
-* 2nd argument is array containing value you want to retrieve from the column value.  
-  
-  
   
     $items = Item::whereJson('column', [1])->get();
     
@@ -38,6 +33,9 @@ or
         'key2' => 'value2', 
         'key3' => 'value3', 
     ])->get();
+
+* 1st argument is column name.
+* 2nd argument is array containing value you want to retrieve from the column value.  
 
 # License
 
