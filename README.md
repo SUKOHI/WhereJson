@@ -1,5 +1,5 @@
 # WhereJson
-A Larave package to mange WHERE clause for json data.
+A Laravel package to mange WHERE clause for json data.
 (This is for Laravel 4.2. [For Laravel 5+](https://github.com/SUKOHI/WhereJson))
 
 # Installation
