@@ -1,4 +1,4 @@
-<?php namespace Sukohi\WhereJson\WhereJsonTrait;
+<?php namespace Sukohi\WhereJson;
 
 trait WhereJsonTrait {
 
